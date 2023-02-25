@@ -1,6 +1,8 @@
 
 # 👩‍💻 Venia Sollery Aliyya Hasna
 
+![](./img/Venia%20Sollery.gif)
+
 - 👋 Hi, I’m Venia Sollery.
 - 🎒 I am currently a 3rd Year Informatics Student at Intitute Teknologi Sepuluh Nopember, Surabaya.
 - 👀 I’m interested in Sports, Travelling, and Outdoor activities.
