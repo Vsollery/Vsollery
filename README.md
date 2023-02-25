@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning UI/UX design and Web Development.
 - 💞️ I’m looking to collaborate on UI/UX or Web Development Projects.
 - 📫 How to reach me through email : vsollery@gmail.com.
-- 🔗 My LinkedIn Profile: [venia-hasna](https://www.linkedin.com/in/venia-hasna-899869210/)
-- 📷 My Instagram: [veniahsn](https://www.instagram.com/veniahsn)
 
 ### Connect with me:
 
@@ -18,9 +16,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/veniahsn#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/veniahsn#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/veniahsn#gh-light-mode-only)
-[![website](./img/mail.svg)](vsollery@gmail.com)
 
 ---
 ### 
