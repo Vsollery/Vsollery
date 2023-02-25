@@ -24,7 +24,7 @@
 <!-- ![Venia's github stat-dark](https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true#gh-dark-mode-only) -->
 
 <a href="https://github.com/Vsollery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true&include_all_commits=true"/>
 </a>
 <a href="https://github.com/Vsollery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsollery&layout=compact"/>
