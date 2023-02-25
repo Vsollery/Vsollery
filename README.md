@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true"/>
 </a>
 <a href="https://github.com/Vsollery">
-  <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vsollery&layout=compact)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsollery&layout=compact"/>
 </a>
 
 #
