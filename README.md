@@ -22,7 +22,6 @@
 ###  📊 Stats
 
 ![Venia's github stat-dark](https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true#gh-dark-mode-only)
-![Venia's github stat-light](https://github-readme-stats.vercel.app/api/?username=Vsollery&show_icons=true&hide=stars,prs&theme=tokyonight&count_private=true#gh-light-mode-only)
 
 #
 
