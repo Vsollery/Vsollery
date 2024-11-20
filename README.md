@@ -4,7 +4,7 @@
 ![](./img/Venia%20Sollery_GIF.gif)
 
 - 👋 Hi, I’m Venia Sollery.
-- 🎒 I am currently a 3rd Year Informatics Student at Intitute Teknologi Sepuluh Nopember, Surabaya and a double degree student at Fontys University of Applied Science.
+- 🎒 I am currently a double degree student Fontys University of Applied Science and Intitute Teknologi Sepuluh Nopember.
 - 👀 I’m interested in Sports, Travelling, and Outdoor activities.
 - 🌱 I’m currently learning UI/UX design and Web Development.
 - 💞️ I’m looking to collaborate on UI/UX or Web Development Projects.
