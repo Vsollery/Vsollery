@@ -5,9 +5,9 @@
 
 - 👋 Hi, I’m Venia Sollery.
 - 🎒 Double Degree Graduate from Fontys University of Applied Sciences & Institut Teknologi Sepuluh Nopember.
-- 👀 I’m interested in Sports, Travelling, and Outdoor activities.
-- 🌱 I’m currently learning UI/UX design and Web Development.
 - 👩🏻‍💻 Working as Junior Fullstack Developer working with PHP, Laravel, Golang, Vue.
+- 👀 I’m interested in Sports, Travelling, and Outdoor activities.
+- 🌱 I'm always learning and growing as a web developer.
 - 💞️ I’m looking to collaborate on UI/UX or Web Development Projects.
 - 📫 How to reach me through email : vsollery@gmail.com.
 
