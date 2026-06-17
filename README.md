@@ -1,14 +1,14 @@
+# Welcome to my GitHub 👋
+
 ![](./img/Venia%20Sollery_GIF.gif)
 
 ---
 
-# Welcome to my GitHub 👋
+# Hi, I'm Venia
 **Always learning, always exploring**
 ---
 
 ### About Me
-
-- 👋 Hi, I’m Venia Sollery.
 - 🎒 Double Degree Graduate from Fontys University of Applied Sciences & Institut Teknologi Sepuluh Nopember.
 - 👩🏻‍💻 Working as Junior Fullstack Developer working with PHP, Laravel, Golang, Vue.
 - 👀 I’m interested in Sports, Travelling, and Outdoor activities.
@@ -18,6 +18,48 @@
 ---
 
 ## ⚒️ Tech and Tools 
+<p align="center">
+  <a href="https://go.dev/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=goland">
+  </a>
+  <a href="https://www.php.net/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white&label=PHP">
+  </a>
+  <a href="https://laravel.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://vuejs.org/">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://kubernetes.io/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://www.docker.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&logoSize=auto">
+  </a>
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white&logoSize=auto">
+ </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto">
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto">
+  </a>
+</p>
+
 ### Connect with me:
 
 &nbsp;&nbsp;
